@@ -1,0 +1,5 @@
+/data/heneng/work/scene_generator/src/images/00f8de38e00d67d29231a02e1e27df19/00f8de38e00d67d29231a02e1e27df19_0001.jpg	<!DOCTYPE html>
+/data/heneng/work/scene_generator/src/images/00f8de38e00d67d29231a02e1e27df19/00f8de38e00d67d29231a02e1e27df19_0005.jpg	{"errno":"0","errmas":"","querysign":"1339086449,2106083718","ret":[{"rect":{"left":"669","top":"211","width":"581","height":"90"},"word":"这不初中毕业了吗","charset":[]}]}
+/data/heneng/work/scene_generator/src/images/00f8de38e00d67d29231a02e1e27df19/00f8de38e00d67d29231a02e1e27df19_0275.jpg	{"errno":"0","errmas":"","querysign":"2055105117,4267632434","ret":[{"rect":{"left":"1378","top":"35","width":"201","height":"32"},"word":"青中国隆军狼牙特战","charset":[]},{"rect":{"left":"782","top":"211","width":"363","height":"87"},"word":"他准备好了","charset":[]}]}
+/data/heneng/work/scene_generator/src/images/00f8de38e00d67d29231a02e1e27df19/00f8de38e00d67d29231a02e1e27df19_0008.jpg	{"errno":"0","errmas":"","querysign":"3169006232,2390931105","ret":[]}
+/data/heneng/work/scene_generator/src/images/00f8de38e00d67d29231a02e1e27df19/00f8de38e00d67d29231a02e1e27df19_0484.jpg	{"errno":"0","errmas":"","querysign":"814771517,324831898","ret":[]}
