@@ -2,6 +2,9 @@
 # auth : Li zhichao
 # data : 2016-11-30
 
+# excel line: 1357878066	2467734231		2		http://d.yunpan.qiyi.virtual/ext/paopao/?token=eJxjYGBgmCy26DoDGLh4AgAWmgKw&authtype=passport&authtoken=ddFsl6BKJ1j1k6QfrunprnspgbXH8m2RMXbFaWThvm2J6oMm49b&type=photo_1000&face=0
+
+
 # -*- coding: utf-8 -*
 import os
 import xlrd
@@ -41,6 +44,7 @@ def get_paopao_picture(src_path):
 			f = open(new_file + '%d/%d.jpg' % (file_count, url_count),'wb')
 			f.write(picture)
 			f.close()
+			# 2000 pictures store in a documents
 			if url_count % 2000 == 0:
 				file_count = file_count + 1
 				os.mkdir(new_file + str(file_count))
@@ -48,7 +52,7 @@ def get_paopao_picture(src_path):
 			print err,url
 
 if __name__ == '__main__':
-	base_path = '/home/lizhichao/data/'
+	base_path = '/data/'
 	src_path = base_path + 'paopao_picture_excel/'
 	des_path = base_path + 'paopao_picture_download/'
 	get_paopao_picture(src_path)
